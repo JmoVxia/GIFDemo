@@ -92,5 +92,11 @@ view.url = @"http://upload-images.jianshu.io/upload_images/1979970-9d2b1cc945099
     return [NSData dataWithContentsOfFile:path];
 }
 ```
+#效果图
+这里需要注意要用真机测试，模拟器测试会看到卡顿现象
+
+![真机效果图.gif](http://upload-images.jianshu.io/upload_images/1979970-9b66ac76e2e2cc51.gif?imageMogr2/auto-orient/strip)
+
+
 #声明
 在这里说明下，只是简单的剥离功能，封装了一下，方便大家使用。Demo地址在这里https://github.com/JmoVxia/GIFDemo
