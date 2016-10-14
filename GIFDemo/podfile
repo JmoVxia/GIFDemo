@@ -1,0 +1,4 @@
+target "GIFDemo" do
+pod 'SDWebImage'
+pod 'FLAnimatedImage'
+end
