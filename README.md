@@ -97,7 +97,7 @@ view.url = @"http://upload-images.jianshu.io/upload_images/1979970-9d2b1cc945099
 # 效果图
 这里需要注意要用真机测试，模拟器测试会看到卡顿现象
 
-![真机效果图.gif](http://p1.bqimg.com/4851/c6832e5c15e6fd66.gif)
+![真机效果图.gif](https://github.com/JmoVxia/GIFDemo/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE.gif)
 
 
 # 声明
