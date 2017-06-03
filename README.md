@@ -1,9 +1,11 @@
-# GIFDemo
-加载GIF图片
 #前言
+
 许多项目需要加载GIF图片，但是在直接使用UIImageView加载存在许多问题，于是查找资料做了一个加载GIF的Demo，思路来源https://github.com/YouXianMing/Animations 在链接里边，已经给出了解决办法，Demo只是将功能剥离，简单封装了一下。
+
 #思路
+
 使用FLAnimatedImage来加载GIF图片，再利用SDWebImage来做缓存，话不多说，直接上代码。
+
 #使用方法  
 ```
 导入头文件#import "GIFView.h"  
